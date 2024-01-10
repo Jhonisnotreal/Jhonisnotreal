@@ -1,6 +1,8 @@
 ### Hi there 👋
 
 I'm Jhon and I'm a data scientist 🚀💫✨
+![neural networks mamalon](https://github.com/Jhonisnotreal/Jhonisnotreal/assets/110693901/70a21747-5116-46c6-8a39-e235827ddb76)
+
 
 <!--
 **Jhonisnotreal/Jhonisnotreal** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
