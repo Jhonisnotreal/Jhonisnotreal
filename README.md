@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+I'm Jhon and I'm a data scientist 🚀💫✨
+
 <!--
 **Jhonisnotreal/Jhonisnotreal** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
