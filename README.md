@@ -2,7 +2,9 @@
 
 I'm Jhon, a data scientist 🚀💫✨ with a passion for deep learning and Linux. I thrive on new challenges and risky ventures, constantly seeking opportunities to expand my expertise. I'm particularly enthusiastic about statistical methods and complex algorithms 🤖💘.
 
-![neural networks mamalon](https://github.com/Jhonisnotreal/Jhonisnotreal/assets/110693901/70a21747-5116-46c6-8a39-e235827ddb76)
+
+
+<img src="image/image.jpeg">
 
 
 <!--
