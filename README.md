@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I'm Jhon, a data scientist 🚀💫✨ with a passion for deep learning and Linux. I thrive on new challenges and risky ventures, constantly seeking opportunities to expand my expertise. I'm particularly enthusiastic about statistical methods and complex algorithms 🤖💘.
+I'm Jhon, a data scientist 🚀💫✨ with a passion for deep learning and Linux. I thrive on new challenges and risky adventures, constantly seeking opportunities to expand my expertise. I'm particularly enthusiastic about statistical methods and complex algorithms 🤖💘.
 
 
 
